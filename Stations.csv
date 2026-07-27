@@ -1,0 +1,377 @@
+AIRPORT_ID,AIRPORT,DISPLAY_AIRPORT_NAME,DISPLAY_AIRPORT_CITY_NAME_FULL,AIRPORT_STATE_NAME,AIRPORT_STATE_CODE,LATITUDE,LONGITUDE,ELEVATION,ICAO,IATA,FAA,MESONET_STATION
+14256,PSG,Petersburg James A Johnson,"Petersburg, AK",Alaska,AK,56.801388,-132.9461,111,PAPG,PSG,PSG,PAPG
+10299,ANC,Ted Stevens Anchorage International,"Anchorage, AK",Alaska,AK,61.174168,-149.99806,152,PANC,ANC,ANC,PANC
+12819,KTN,Ketchikan International,"Ketchikan, AK",Alaska,AK,55.354168,-131.7111,89,PAKT,KTN,KTN,PAKT
+13873,OME,Nome Airport,"Nome, AK",Alaska,AK,64.51056,-165.44472,37,PAOM,OME,OME,PAOM
+10551,BET,Bethel Airport,"Bethel, AK",Alaska,AK,60.77861,-161.83722,126,PABE,BET,BET,PABE
+10926,CDV,Merle K Mudhole Smith,"Cordova, AK",Alaska,AK,60.491665,-145.4775,54,PACV,CDV,CDV,PACV
+10245,AKN,King Salmon Airport,"King Salmon, AK",Alaska,AK,58.676388,-156.6486,73,PAKN,AKN,AKN,PAKN
+14828,SIT,Sitka Rocky Gutierrez,"Sitka, AK",Alaska,AK,57.046944,-135.36111,21,PASI,SIT,SIT,PASI
+11630,FAI,Fairbanks International,"Fairbanks, AK",Alaska,AK,64.81528,-147.85667,439,PAFA,FAI,FAI,PAFA
+13970,OTZ,Ralph Wien Memorial,"Kotzebue, AK",Alaska,AK,66.88472,-162.59805,14,PAOT,OTZ,OTZ,PAOT
+10170,ADQ,Kodiak Airport,"Kodiak, AK",Alaska,AK,57.74972,-152.4939,78,PADQ,ADQ,ADQ,PADQ
+12523,JNU,Juneau International,"Juneau, AK",Alaska,AK,58.35472,-134.57834,21,PAJN,JNU,JNU,PAJN
+15841,WRG,Wrangell Airport,"Wrangell, AK",Alaska,AK,56.484444,-132.36972,49,PAWG,WRG,WRG,PAWG
+11336,DLG,Dillingham Airport,"Dillingham, AK",Alaska,AK,59.044724,-158.50555,81,PADL,DLG,DLG,PADL
+11997,GST,Gustavus Airport,"Gustavus, AK",Alaska,AK,58.425278,-135.7075,35,PAGS,GST,GST,PAGS
+10754,BRW,Wiley Post/Will Rogers Memorial,"Barrow, AK",Alaska,AK,71.28472,-156.76862,44,PABR,BRW,BRW,PABR
+15991,YAK,Yakutat Airport,"Yakutat, AK",Alaska,AK,59.503334,-139.66028,33,PAYA,YAK,YAK,PAYA
+10165,ADK,Adak,"Adak Island, AK",Alaska,AK,51.88361,-176.6425,18,PADK,ADK,ADK,PADK
+14709,SCC,Deadhorse Airport,"Deadhorse, AK",Alaska,AK,70.194725,-148.46527,65,PASC,SCC,SCC,PASC
+10599,BHM,Birmingham-Shuttlesworth International,"Birmingham, AL",Alabama,AL,33.56389,-86.75222,650,KBHM,BHM,BHM,BHM
+13422,MOB,Mobile Regional,"Mobile, AL",Alabama,AL,30.69139,-88.242775,219,KMOB,MOB,MOB,MOB
+13277,MGM,Montgomery Regional,"Montgomery, AL",Alabama,AL,32.300556,-86.39389,221,KMGM,MGM,MGM,MGM
+12217,HSV,Huntsville International-Carl T Jones Field,"Huntsville, AL",Alabama,AL,34.637222,-86.775,629,KHSV,HSV,HSV,HSV
+11308,DHN,Dothan Regional,"Dothan, AL",Alabama,AL,31.321112,-85.44945,401,KDHN,DHN,DHN,DHN
+15919,XNA,Northwest Arkansas National,"Fayetteville, AR",Arkansas,AR,36.281666,-94.30778,1287,KXNA,XNA,XNA,XNA
+12992,LIT,Bill and Hillary Clinton Nat Adams Field,"Little Rock, AR",Arkansas,AR,34.729443,-92.224724,262,KLIT,LIT,LIT,LIT
+15401,TXK,Texarkana Regional-Webb Field,"Texarkana, AR",Arkansas,AR,33.45361,-93.99111,390,KTXK,TXK,TXK,TXK
+11778,FSM,Fort Smith Regional,"Fort Smith, AR",Arkansas,AR,35.335278,-94.367775,469,KFSM,FSM,FSM,FSM
+15376,TUS,Tucson International,"Tucson, AZ",Arizona,AZ,32.11611,-110.94111,2643,KTUS,TUS,TUS,TUS
+11695,FLG,Flagstaff Pulliam,"Flagstaff, AZ",Arizona,AZ,35.140278,-111.66917,7014,KFLG,FLG,FLG,FLG
+10466,AZA,Phoenix - Mesa Gateway,"Phoenix, AZ",Arizona,AZ,33.307777,-111.655556,1382,KIWA,AZA,IWA,IWA
+16218,YUM,Yuma MCAS/Yuma International,"Yuma, AZ",Arizona,AZ,32.656666,-114.60611,213,KNYL,YUM,NYL,NYL
+14107,PHX,Phoenix Sky Harbor International,"Phoenix, AZ",Arizona,AZ,33.434166,-112.011665,1135,KPHX,PHX,PHX,PHX
+14237,PRC,Prescott Regional Ernest A Love Field,"Prescott, AZ",Arizona,AZ,34.654724,-112.41917,5045,KPRC,PRC,PRC,PRC
+10590,IFP,Laughlin/Bullhead International,"Bullhead City, AZ",Arizona,AZ,35.154724,-114.55945,701,KIFP,IFP,IFP,IFP
+13796,OAK,Metro Oakland International,"Oakland, CA",California,CA,37.72111,-122.22111,9,KOAK,OAK,OAK,OAK
+14905,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,"Santa Maria, CA",California,CA,34.9,-120.45805,261,KSMX,SMX,SMX,SMX
+14893,SMF,Sacramento International,"Sacramento, CA",California,CA,38.695557,-121.590836,27,KSMF,SMF,SMF,SMF
+10800,BUR,Bob Hope,"Burbank, CA",California,CA,34.200554,-118.35861,778,KBUR,BUR,BUR,BUR
+14716,SCK,Stockton Metro,"Stockton, CA",California,CA,37.894444,-121.23861,33,KSCK,SCK,SCK,SCK
+14679,SAN,San Diego International,"San Diego, CA",California,CA,32.733612,-117.18972,17,KSAN,SAN,SAN,SAN
+11638,FAT,Fresno Yosemite International,"Fresno, CA",California,CA,36.77667,-119.71889,336,KFAT,FAT,FAT,FAT
+14689,SBA,Santa Barbara Municipal,"Santa Barbara, CA",California,CA,34.42611,-119.84139,13,KSBA,SBA,SBA,SBA
+13891,ONT,Ontario International,"Ontario, CA",California,CA,34.05611,-117.60111,944,KONT,ONT,ONT,ONT
+14771,SFO,San Francisco International,"San Francisco, CA",California,CA,37.61889,-122.37556,13,KSFO,SFO,SFO,SFO
+14698,SBP,San Luis County Regional,"San Luis Obispo, CA",California,CA,35.23722,-120.6425,212,KSBP,SBP,SBP,SBP
+14262,PSP,Palm Springs International,"Palm Springs, CA",California,CA,33.829723,-116.50667,477,KPSP,PSP,PSP,PSP
+14487,RDD,Redding Municipal,"Redding, CA",California,CA,40.50889,-122.293335,505,KRDD,RDD,RDD,RDD
+14831,SJC,Norman Y. Mineta San Jose International,"San Jose, CA",California,CA,37.363056,-121.92861,62,KSJC,SJC,SJC,SJC
+14908,SNA,John Wayne Airport-Orange County,"Santa Ana, CA",California,CA,33.675556,-117.86833,56,KSNA,SNA,SNA,SNA
+13476,MRY,Monterey Regional,"Monterey, CA",California,CA,36.586945,-121.843056,257,KMRY,MRY,MRY,MRY
+12954,LGB,Long Beach Airport,"Long Beach, CA",California,CA,33.818054,-118.15195,60,KLGB,LGB,LGB,LGB
+10561,BFL,Meadows Field,"Bakersfield, CA",California,CA,35.433887,-119.05778,510,KBFL,BFL,BFL,BFL
+12892,LAX,Los Angeles International,"Los Angeles, CA",California,CA,33.9425,-118.40806,125,KLAX,LAX,LAX,LAX
+10617,BIH,Bishop Airport,"Bishop, CA",California,CA,37.373055,-118.36361,4124,KBIH,BIH,BIH,BIH
+15023,STS,Charles M. Schulz - Sonoma County,"Santa Rosa, CA",California,CA,38.509724,-122.812775,128,KSTS,STS,STS,STS
+10157,ACV,California Redwood Coast Humboldt County,"Arcata/Eureka, CA",California,CA,40.97778,-124.10833,221,KACV,ACV,ACV,ACV
+10372,ASE,Aspen Pitkin County Sardy Field,"Aspen, CO",Colorado,CO,39.221943,-106.86833,7820,KASE,ASE,ASE,ASE
+11109,COS,City of Colorado Springs Municipal,"Colorado Springs, CO",Colorado,CO,38.805832,-104.700836,6187,KCOS,COS,COS,COS
+10272,ALS,San Luis Valley Regional/Bergman Field,"Alamosa, CO",Colorado,CO,37.435,-105.867775,7539,KALS,ALS,ALS,ALS
+11921,GJT,Grand Junction Regional,"Grand Junction, CO",Colorado,CO,39.1225,-108.526665,4858,KGJT,GJT,GJT,GJT
+12012,GUC,Gunnison-Crested Butte Regional,"Gunnison, CO",Colorado,CO,38.534443,-106.93166,7680,KGUC,GUC,GUC,GUC
+11292,DEN,Denver International,"Denver, CO",Colorado,CO,39.861668,-104.67306,5431,KDEN,DEN,DEN,DEN
+12094,HDN,Yampa Valley,"Hayden, CO",Colorado,CO,40.48111,-107.21778,6606,KHDN,HDN,HDN,HDN
+11503,EGE,Eagle County Regional,"Eagle, CO",Colorado,CO,39.642776,-106.91583,6548,KEGE,EGE,EGE,EGE
+13502,MTJ,Montrose Regional,"Montrose/Delta, CO",Colorado,CO,38.509724,-107.894165,5759,KMTJ,MTJ,MTJ,MTJ
+11413,DRO,Durango La Plata County,"Durango, CO",Colorado,CO,37.15167,-107.75389,6685,KDRO,DRO,DRO,DRO
+14288,PUB,Pueblo Memorial,"Pueblo, CO",Colorado,CO,38.29,-104.498055,4726,KPUB,PUB,PUB,PUB
+10529,BDL,Bradley International,"Hartford, CT",Connecticut,CT,41.939167,-72.68445,173,KBDL,BDL,BDL,BDL
+12320,ILG,New Castle,"Wilmington, DE",Delaware,DE,39.67861,-75.60667,80,KILG,ILG,ILG,ILG
+14193,PNS,Pensacola International,"Pensacola, FL",Florida,FL,30.473333,-87.18667,121,KPNS,PNS,PNS,PNS
+11481,ECP,Northwest Florida Beaches International,"Panama City, FL",Florida,FL,30.358334,-85.795555,69,KECP,ECP,ECP,ECP
+11697,FLL,Fort Lauderdale-Hollywood International,"Fort Lauderdale, FL",Florida,FL,26.071667,-80.14972,9,KFLL,FLL,FLL,FLL
+13204,MCO,Orlando International,"Orlando, FL",Florida,FL,28.429445,-81.30889,96,KMCO,MCO,MCO,MCO
+14635,RSW,Southwest Florida International,"Fort Myers, FL",Florida,FL,26.536112,-81.75528,30,KRSW,RSW,RSW,RSW
+11252,DAB,Daytona Beach International,"Daytona Beach, FL",Florida,FL,29.18,-81.05805,34,KDAB,DAB,DAB,DAB
+11624,EYW,Key West International,"Key West, FL",Florida,FL,24.55611,-81.76,3,KEYW,EYW,EYW,EYW
+14112,PIE,St Pete Clearwater International,"St. Petersburg, FL",Florida,FL,27.908611,-82.686386,11,KPIE,PIE,PIE,PIE
+15624,VPS,Eglin AFB Destin Fort Walton Beach,"Valparaiso, FL",Florida,FL,30.483334,-86.525276,87,KVPS,VPS,VPS,VPS
+14986,SRQ,Sarasota/Bradenton International,"Sarasota/Bradenton, FL",Florida,FL,27.395555,-82.55444,30,KSRQ,SRQ,SRQ,SRQ
+14082,PGD,Punta Gorda Airport,"Punta Gorda, FL",Florida,FL,26.918612,-81.99084,26,KPGD,PGD,PGD,PGD
+13303,MIA,Miami International,"Miami, FL",Florida,FL,25.795279,-80.29,8,KMIA,MIA,MIA,MIA
+12451,JAX,Jacksonville International,"Jacksonville, FL",Florida,FL,30.494167,-81.687775,30,KJAX,JAX,JAX,JAX
+11953,GNV,Gainesville Regional,"Gainesville, FL",Florida,FL,29.69,-82.27167,152,KGNV,GNV,GNV,GNV
+15249,TLH,Tallahassee International,"Tallahassee, FL",Florida,FL,30.396667,-84.35083,81,KTLH,TLH,TLH,TLH
+13360,MLB,Melbourne Orlando International,"Melbourne, FL",Florida,FL,28.102777,-80.64528,33,KMLB,MLB,MLB,MLB
+15304,TPA,Tampa International,"Tampa, FL",Florida,FL,27.975555,-82.53333,26,KTPA,TPA,TPA,TPA
+14027,PBI,Palm Beach International,"West Palm Beach/Palm Beach, FL",Florida,FL,26.683056,-80.09556,19,KPBI,PBI,PBI,PBI
+14761,SFB,Orlando Sanford International,"Sanford, FL",Florida,FL,28.777222,-81.235,55,KSFB,SFB,SFB,SFB
+14685,SAV,Savannah/Hilton Head International,"Savannah, GA",Georgia,GA,32.1275,-81.202225,50,KSAV,SAV,SAV,SAV
+11150,CSG,Columbus Airport,"Columbus, GA",Georgia,GA,32.516388,-84.93889,397,KCSG,CSG,CSG,CSG
+10146,ABY,Southwest Georgia Regional,"Albany, GA",Georgia,GA,31.535555,-84.19444,197,KABY,ABY,ABY,ABY
+15607,VLD,Valdosta Regional,"Valdosta, GA",Georgia,GA,30.78139,-83.27611,203,KVLD,VLD,VLD,VLD
+10208,AGS,Augusta Regional at Bush Field,"Augusta, GA",Georgia,GA,33.37,-81.96445,144,KAGS,AGS,AGS,AGS
+10397,ATL,Hartsfield-Jackson Atlanta International,"Atlanta, GA",Georgia,GA,33.636665,-84.42778,1026,KATL,ATL,ATL,ATL
+10731,BQK,Brunswick Golden Isles,"Brunswick, GA",Georgia,GA,31.259167,-81.46639,26,KBQK,BQK,BQK,BQK
+13830,OGG,Kahului Airport,"Kahului, HI",Hawaii,HI,20.898611,-156.43056,54,PHOG,OGG,OGG,PHOG
+12173,HNL,Daniel K Inouye International,"Honolulu, HI",Hawaii,HI,21.317778,-157.92027,13,PHNL,HNL,HNL,PHNL
+12402,ITO,Hilo International,"Hilo, HI",Hawaii,HI,19.720278,-155.04834,38,PHTO,ITO,ITO,PHTO
+12982,LIH,Lihue Airport,"Lihue, HI",Hawaii,HI,21.97611,-159.33888,153,PHLI,LIH,LIH,PHLI
+12758,KOA,Ellison Onizuka Kona International at Keahole,"Kona, HI",Hawaii,HI,19.73889,-156.04556,47,PHKO,KOA,KOA,PHKO
+13211,MCW,Mason City Municipal,"Mason City, IA",Iowa,IA,43.157776,-93.33111,1213,KMCW,MCW,MCW,MCW
+15048,SUX,Sioux Gateway Brig Gen Bud Day Field,"Sioux City, IA",Iowa,IA,42.40139,-96.384445,1098,KSUX,SUX,SUX,SUX
+11725,FOD,Fort Dodge Regional,"Fort Dodge, IA",Iowa,IA,42.55111,-94.19195,1156,KFOD,FOD,FOD,FOD
+11274,DBQ,Dubuque Regional,"Dubuque, IA",Iowa,IA,42.401943,-90.70944,1077,KDBQ,DBQ,DBQ,DBQ
+11003,CID,The Eastern Iowa,"Cedar Rapids/Iowa City, IA",Iowa,IA,41.884724,-91.71083,869,KCID,CID,CID,CID
+10268,ALO,Waterloo Regional,"Waterloo, IA",Iowa,IA,42.558334,-92.40111,873,KALO,ALO,ALO,ALO
+11423,DSM,Des Moines International,"Des Moines, IA",Iowa,IA,41.53417,-93.657776,958,KDSM,DSM,DSM,DSM
+12280,IDA,Idaho Falls Regional,"Idaho Falls, ID",Idaho,ID,43.51361,-112.07083,4744,KIDA,IDA,IDA,IDA
+14113,PIH,Pocatello Regional,"Pocatello, ID",Idaho,ID,42.90972,-112.59583,4452,KPIH,PIH,PIH,PIH
+13127,LWS,Lewiston Nez Perce County,"Lewiston, ID",Idaho,ID,46.374443,-117.015274,1442,KLWS,LWS,LWS,LWS
+10713,BOI,Boise Air Terminal,"Boise, ID",Idaho,ID,43.564445,-116.22278,2871,KBOI,BOI,BOI,BOI
+15041,SUN,Friedman Memorial,"Sun Valley/Hailey/Ketchum, ID",Idaho,ID,43.503887,-114.295555,5318,KSUN,SUN,SUN,SUN
+15389,TWF,Joslin Field - Magic Valley Regional,"Twin Falls, ID",Idaho,ID,42.481945,-114.48778,4154,KTWF,TWF,TWF,TWF
+10685,BMI,Central Il Regional Airport at Bloomington,"Bloomington/Normal, IL",Illinois,IL,40.477222,-88.91583,871,KBMI,BMI,BMI,BMI
+10676,BLV,Scott AFB MidAmerica St Louis,"Belleville, IL",Illinois,IL,38.545277,-89.83528,459,KBLV,BLV,BLV,BLV
+13232,MDW,Chicago Midway International,"Chicago, IL",Illinois,IL,41.78583,-87.7525,620,KMDW,MDW,MDW,MDW
+13930,ORD,Chicago O'Hare International,"Chicago, IL",Illinois,IL,41.976944,-87.90806,672,KORD,ORD,ORD,ORD
+14512,RFD,Chicago/Rockford International,"Rockford, IL",Illinois,IL,42.19528,-89.09722,742,KRFD,RFD,RFD,RFD
+14952,SPI,Abraham Lincoln Capital,"Springfield, IL",Illinois,IL,39.844166,-89.678055,598,KSPI,SPI,SPI,SPI
+14108,PIA,General Downing - Peoria International,"Peoria, IL",Illinois,IL,40.664165,-89.69334,660,KPIA,PIA,PIA,PIA
+11067,CMI,University of Illinois/Willard,"Champaign/Urbana, IL",Illinois,IL,40.038612,-88.276665,755,KCMI,CMI,CMI,CMI
+13367,MLI,Quad Cities International,"Moline, IL",Illinois,IL,41.448334,-90.5075,590,KMLI,MLI,MLI,MLI
+11288,DEC,Decatur Airport,"Decatur, IL",Illinois,IL,39.834446,-88.865555,682,KDEC,DEC,DEC,DEC
+11612,EVV,Evansville Regional,"Evansville, IN",Indiana,IN,38.040833,-87.52861,418,KEVV,EVV,EVV,EVV
+12339,IND,Indianapolis International,"Indianapolis, IN",Indiana,IN,39.717224,-86.29472,797,KIND,IND,IND,IND
+11823,FWA,Fort Wayne International,"Fort Wayne, IN",Indiana,IN,40.978333,-85.195274,814,KFWA,FWA,FWA,FWA
+14696,SBN,South Bend International,"South Bend, IN",Indiana,IN,41.708332,-86.31722,799,KSBN,SBN,SBN,SBN
+11283,DDC,Dodge City Regional,"Dodge City, KS",Kansas,KS,37.763054,-99.96555,2594,KDDC,DDC,DDC,DDC
+12278,ICT,Wichita Dwight D Eisenhower National,"Wichita, KS",Kansas,KS,37.65,-97.43305,1333,KICT,ICT,ICT,ICT
+12902,LBL,Liberal Mid-America Regional,"Liberal, KS",Kansas,KS,37.043888,-100.96,2885,KLBL,LBL,LBL,LBL
+12255,HYS,Hays Regional,"Hays, KS",Kansas,KS,38.842224,-99.273056,1999,KHYS,HYS,HYS,HYS
+14877,SLN,Salina Regional,"Salina, KS",Kansas,KS,38.790554,-97.65222,1288,KSLN,SLN,SLN,SLN
+13290,MHK,Manhattan Regional,"Manhattan/Ft. Riley, KS",Kansas,KS,39.14111,-96.67194,1057,KMHK,MHK,MHK,MHK
+11867,GCK,Garden City Regional,"Garden City, KS",Kansas,KS,37.9275,-100.72444,2891,KGCK,GCK,GCK,GCK
+14006,PAH,Barkley Regional,"Paducah, KY",Kentucky,KY,37.060276,-88.773056,410,KPAH,PAH,PAH,PAH
+11193,CVG,Cincinnati/Northern Kentucky International,"Cincinnati, OH",Kentucky,KY,39.04889,-84.66778,896,KCVG,CVG,CVG,CVG
+13983,OWB,Owensboro Daviess County Regional,"Owensboro, KY",Kentucky,KY,37.738888,-87.16695,407,KOWB,OWB,OWB,OWB
+12945,LEX,Blue Grass,"Lexington, KY",Kentucky,KY,38.036667,-84.60861,979,KLEX,LEX,LEX,LEX
+14730,SDF,Louisville Muhammad Ali International,"Louisville, KY",Kentucky,KY,38.174168,-85.73639,501,KSDF,SDF,SDF,SDF
+13377,MLU,Monroe Regional,"Monroe, LA",Louisiana,LA,32.510555,-92.03611,79,KMLU,MLU,MLU,MLU
+14814,SHV,Shreveport Regional,"Shreveport, LA",Louisiana,LA,32.44639,-93.82611,258,KSHV,SHV,SHV,SHV
+13495,MSY,Louis Armstrong New Orleans International,"New Orleans, LA",Louisiana,LA,29.993334,-90.25916,4,KMSY,MSY,MSY,MSY
+10781,BTR,Baton Rouge Metropolitan/Ryan Field,"Baton Rouge, LA",Louisiana,LA,30.533056,-91.15,70,KBTR,BTR,BTR,BTR
+12915,LCH,Lake Charles Regional,"Lake Charles, LA",Louisiana,LA,30.126112,-93.223335,15,KLCH,LCH,LCH,LCH
+12951,LFT,Lafayette Regional Paul Fournet Field,"Lafayette, LA",Louisiana,LA,30.205,-91.98778,42,KLFT,LFT,LFT,LFT
+10185,AEX,Alexandria International,"Alexandria, LA",Louisiana,LA,31.3275,-92.548615,89,KAEX,AEX,AEX,AEX
+13933,ORH,Worcester Regional,"Worcester, MA",Massachusetts,MA,42.267223,-71.87556,1009,KORH,ORH,ORH,ORH
+10721,BOS,Logan International,"Boston, MA",Massachusetts,MA,42.363056,-71.006386,20,KBOS,BOS,BOS,BOS
+12250,HYA,Cape Cod Gateway,"Hyannis, MA",Massachusetts,MA,41.669445,-70.28028,54,KHYA,HYA,HYA,HYA
+10154,ACK,Nantucket Memorial,"Nantucket, MA",Massachusetts,MA,41.253056,-70.06,47,KACK,ACK,ACK,ACK
+13541,MVY,Martha's Vineyard Airport,"Martha's Vineyard, MA",Massachusetts,MA,41.393333,-70.61389,67,KMVY,MVY,MVY,MVY
+14704,SBY,Salisbury-Ocean City/Wicomico Regional,"Salisbury, MD",Maryland,MD,38.34028,-75.509445,52,KSBY,SBY,SBY,SBY
+12119,HGR,Hagerstown Regional-Richard A. Henson Field,"Hagerstown, MD",Maryland,MD,39.70861,-77.72639,703,KHGR,HGR,HGR,HGR
+10821,BWI,Baltimore/Washington International Thurgood Marshall,"Baltimore, MD",Maryland,MD,39.175835,-76.66889,146,KBWI,BWI,BWI,BWI
+14231,PQI,Presque Isle International,"Presque Isle/Houlton, ME",Maine,ME,46.68889,-68.04472,534,KPQI,PQI,PQI,PQI
+10581,BGR,Bangor International,"Bangor, ME",Maine,ME,44.8075,-68.82806,192,KBGR,BGR,BGR,BGR
+14321,PWM,Portland International Jetport,"Portland, ME",Maine,ME,43.645557,-70.30861,76,KPWM,PWM,PWM,PWM
+13459,MQT,Sawyer International,"Marquette, MI",Michigan,MI,46.349167,-87.396385,1221,KSAW,MQT,SAW,SAW
+13184,MBS,MBS International,"Saginaw/Bay City/Midland, MI",Michigan,MI,43.533054,-84.07972,668,KMBS,MBS,MBS,MBS
+12335,IMT,Ford,"Iron Mountain/Kingsfd, MI",Michigan,MI,45.818333,-88.11444,1182,KIMT,IMT,IMT,IMT
+14150,PLN,Pellston Regional Airport of Emmet County,"Pellston, MI",Michigan,MI,45.570835,-84.79667,721,KPLN,PLN,PLN,PLN
+11587,ESC,Delta County,"Escanaba, MI",Michigan,MI,45.72278,-87.09361,609,KESC,ESC,ESC,ESC
+10333,APN,Alpena County Regional,"Alpena, MI",Michigan,MI,45.078056,-83.56028,690,KAPN,APN,APN,APN
+11721,FNT,Bishop International,"Flint, MI",Michigan,MI,42.965557,-83.74472,782,KFNT,FNT,FNT,FNT
+15380,TVC,Cherry Capital,"Traverse City, MI",Michigan,MI,44.741665,-85.58195,624,KTVC,TVC,TVC,TVC
+11433,DTW,Detroit Metro Wayne County,"Detroit, MI",Michigan,MI,42.2125,-83.35333,645,KDTW,DTW,DTW,DTW
+12884,LAN,Capital Region International,"Lansing, MI",Michigan,MI,42.77861,-84.58611,861,KLAN,LAN,LAN,LAN
+11986,GRR,Gerald R. Ford International,"Grand Rapids, MI",Michigan,MI,42.880833,-85.52278,794,KGRR,GRR,GRR,GRR
+10469,AZO,Kalamazoo/Battle Creek International,"Kalamazoo, MI",Michigan,MI,42.234444,-85.55167,874,KAZO,AZO,AZO,AZO
+13344,MKG,Muskegon County,"Muskegon, MI",Michigan,MI,43.167778,-86.23556,629,KMKG,MKG,MKG,MKG
+11076,CMX,Houghton County Memorial,"Hancock/Houghton, MI",Michigan,MI,47.167778,-88.48639,1095,KCMX,CMX,CMX,CMX
+11013,CIU,Chippewa County International,"Sault Ste. Marie, MI",Michigan,MI,46.25083,-84.4725,800,KCIU,CIU,CIU,CIU
+10631,BJI,Bemidji Regional,"Bemidji, MN",Minnesota,MN,47.510834,-94.93472,1391,KBJI,BJI,BJI,BJI
+12343,INL,Falls International Einarson Field,"International Falls, MN",Minnesota,MN,48.565556,-93.40222,1185,KINL,INL,INL,INL
+10739,BRD,Brainerd Lakes Regional,"Brainerd, MN",Minnesota,MN,46.404167,-94.13361,1232,KBRD,BRD,BRD,BRD
+11337,DLH,Duluth International,"Duluth, MN",Minnesota,MN,46.841946,-92.19334,1428,KDLH,DLH,DLH,DLH
+13487,MSP,Minneapolis-St Paul International,"Minneapolis, MN",Minnesota,MN,44.881943,-93.221664,841,KMSP,MSP,MSP,MSP
+14633,RST,Rochester International,"Rochester, MN",Minnesota,MN,43.908333,-92.5,1317,KRST,RST,RST,RST
+12129,HIB,Range Regional,"Hibbing, MN",Minnesota,MN,47.386665,-92.83889,1354,KHIB,HIB,HIB,HIB
+15008,STC,St. Cloud Regional,"St. Cloud, MN",Minnesota,MN,45.546112,-94.05945,1031,KSTC,STC,STC,STC
+12511,JLN,Joplin Regional,"Joplin, MO",Missouri,MO,37.153057,-94.498886,981,KJLN,JLN,JLN,JLN
+13198,MCI,Kansas City International,"Kansas City, MO",Missouri,MO,39.2975,-94.71389,1026,KMCI,MCI,MCI,MCI
+15016,STL,St Louis Lambert International,"St. Louis, MO",Missouri,MO,38.74861,-90.37,618,KSTL,STL,STL,STL
+11111,COU,Columbia Regional,"Columbia, MO",Missouri,MO,38.81778,-92.21778,889,KCOU,COU,COU,COU
+10643,BKG,Branson Airport,"Branson, MO",Missouri,MO,36.531944,-93.200554,1302,KBBG,BKG,BBG,BBG
+14783,SGF,Springfield-Branson National,"Springfield, MO",Missouri,MO,37.245556,-93.38861,1268,KSGF,SGF,SGF,SGF
+15138,TBN,Waynesville-St. Robert Regional Forney Field,"Fort Leonard Wood, MO",Missouri,MO,37.741665,-92.14083,1159,KTBN,TBN,TBN,TBN
+10967,CGI,Cape Girardeau Regional,"Cape Girardeau, MO",Missouri,MO,37.225277,-89.57083,342,KCGI,CGI,CGI,CGI
+14109,PIB,Hattiesburg-Laurel Regional,"Hattiesburg/Laurel, MS",Mississippi,MS,31.467222,-89.336945,298,KPIB,PIB,PIB,PIB
+13241,MEI,Key Field,"Meridian, MS",Mississippi,MS,32.3325,-88.751945,297,KMEI,MEI,MEI,MEI
+11973,GPT,Gulfport-Biloxi International,"Gulfport/Biloxi, MS",Mississippi,MS,30.407223,-89.07,28,KGPT,GPT,GPT,GPT
+12007,GTR,Golden Triangle Regional,"Columbus, MS",Mississippi,MS,33.448334,-88.59139,264,KGTR,GTR,GTR,GTR
+12448,JAN,Jackson Medgar Wiley Evers International,"Jackson/Vicksburg, MS",Mississippi,MS,32.31111,-90.075836,346,KJAN,JAN,JAN,JAN
+11648,FCA,Glacier Park International,"Kalispell, MT",Montana,MT,48.310555,-114.25611,2977,KGPI,FCA,GPI,GPI
+15897,WYS,Yellowstone,"West Yellowstone, MT",Montana,MT,44.68833,-111.117775,6649,KWYS,WYS,WYS,WYS
+10620,BIL,Billings Logan International,"Billings, MT",Montana,MT,45.807777,-108.54361,3652,KBIL,BIL,BIL,BIL
+10849,BZN,Bozeman Yellowstone International,"Bozeman, MT",Montana,MT,45.77722,-111.150276,4473,KBZN,BZN,BZN,BZN
+13486,MSO,Missoula Montana,"Missoula, MT",Montana,MT,46.91639,-114.09055,3206,KMSO,MSO,MSO,MSO
+10779,BTM,Bert Mooney,"Butte, MT",Montana,MT,45.954723,-112.4975,5550,KBTM,BTM,BTM,BTM
+12003,GTF,Great Falls International,"Great Falls, MT",Montana,MT,47.482224,-111.37028,3680,KGTF,GTF,GTF,GTF
+12156,HLN,Helena Regional,"Helena, MT",Montana,MT,46.606667,-111.98333,3877,KHLN,HLN,HLN,HLN
+13795,OAJ,Albert J Ellis,"Jacksonville/Camp Lejeune, NC",North Carolina,NC,34.829166,-77.61222,94,KOAJ,OAJ,OAJ,OAJ
+11617,EWN,Coastal Carolina Regional,"New Bern/Morehead/Beaufort, NC",North Carolina,NC,35.072777,-77.04305,18,KEWN,EWN,EWN,EWN
+14492,RDU,Raleigh-Durham International,"Raleigh/Durham, NC",North Carolina,NC,35.877777,-78.7875,435,KRDU,RDU,RDU,RDU
+12544,USA,Concord Padgett Regional,"Concord, NC",North Carolina,NC,35.38778,-80.70917,705,KJQF,USA,JQF,JQF
+14092,PGV,Pitt Greenville,"Greenville, NC",North Carolina,NC,35.635555,-77.38416,26,KPGV,PGV,PGV,PGV
+11057,CLT,Charlotte Douglas International,"Charlotte, NC",North Carolina,NC,35.21361,-80.949165,748,KCLT,CLT,CLT,CLT
+10431,AVL,Asheville Regional,"Asheville, NC",North Carolina,NC,35.43611,-82.54195,2165,KAVL,AVL,AVL,AVL
+11995,GSO,Piedmont Triad International,"Greensboro/High Point, NC",North Carolina,NC,36.101387,-79.94111,925,KGSO,GSO,GSO,GSO
+11641,FAY,Fayetteville Regional/Grannis Field,"Fayetteville, NC",North Carolina,NC,34.99111,-78.88028,189,KFAY,FAY,FAY,FAY
+12323,ILM,Wilmington International,"Wilmington, NC",North Carolina,NC,34.27111,-77.90278,32,KILM,ILM,ILM,ILM
+13433,MOT,Minot International,"Minot, ND",North Dakota,ND,48.25778,-101.27805,1716,KMOT,MOT,MOT,MOT
+16869,XWA,Williston Basin International,"Williston, ND",North Dakota,ND,48.259724,-103.75056,2344,KXWA,XWA,XWA,XWA
+11315,DIK,Dickinson - Theodore Roosevelt Regional,"Dickinson, ND",North Dakota,ND,46.800835,-102.80334,2592,KDIK,DIK,DIK,DIK
+11447,DVL,Devils Lake Regional,"Devils Lake, ND",North Dakota,ND,48.116665,-98.91,1456,KDVL,DVL,DVL,DVL
+12519,JMS,Jamestown Regional,"Jamestown, ND",North Dakota,ND,46.92972,-98.678055,1500,KJMS,JMS,JMS,JMS
+11637,FAR,Hector International,"Fargo, ND",North Dakota,ND,46.920555,-96.815834,902,KFAR,FAR,FAR,FAR
+10627,BIS,Bismarck Municipal,"Bismarck/Mandan, ND",North Dakota,ND,46.772778,-100.745834,1661,KBIS,BIS,BIS,BIS
+11898,GFK,Grand Forks International,"Grand Forks, ND",North Dakota,ND,47.947224,-97.17389,845,KGFK,GFK,GFK,GFK
+11468,EAR,Kearney Regional,"Kearney, NE",Nebraska,NE,40.726944,-99.00667,2131,KEAR,EAR,EAR,EAR
+13871,OMA,Eppley Airfield,"Omaha, NE",Nebraska,NE,41.303055,-95.894165,984,KOMA,OMA,OMA,OMA
+11980,GRI,Central Nebraska Regional,"Grand Island, NE",Nebraska,NE,40.9675,-98.30972,1847,KGRI,GRI,GRI,GRI
+10558,BFF,Western Neb. Regional/William B. Heilig Field,"Scottsbluff, NE",Nebraska,NE,41.87417,-103.59556,3967,KBFF,BFF,BFF,BFF
+12899,LBF,North Platte Regional Airport Lee Bird Field,"North Platte, NE",Nebraska,NE,41.12611,-100.68361,2777,KLBF,LBF,LBF,LBF
+13029,LNK,Lincoln Airport,"Lincoln, NE",Nebraska,NE,40.850834,-96.75916,1219,KLNK,LNK,LNK,LNK
+14259,PSM,Portsmouth International at Pease,"Portsmouth, NH",New Hampshire,NH,43.078056,-70.82333,100,KPSM,PSM,PSM,PSM
+13296,MHT,Manchester Boston Regional,"Manchester, NH",New Hampshire,NH,42.932777,-71.43584,266,KMHT,MHT,MHT,MHT
+10158,ACY,Atlantic City International,"Atlantic City, NJ",New Jersey,NJ,39.4575,-74.577225,75,KACY,ACY,ACY,ACY
+11618,EWR,Newark Liberty International,"Newark, NJ",New Jersey,NJ,40.6925,-74.16861,18,KEWR,EWR,EWR,EWR
+15356,TTN,Trenton Mercer,"Trenton, NJ",New Jersey,NJ,40.27667,-74.81333,213,KTTN,TTN,TTN,TTN
+12177,HOB,Lea County Regional,"Hobbs, NM",New Mexico,NM,32.6875,-103.217224,3661,KHOB,HOB,HOB,HOB
+14674,SAF,Santa Fe Municipal,"Santa Fe, NM",New Mexico,NM,35.61722,-106.08945,6348,KSAF,SAF,SAF,SAF
+14588,ROW,Roswell Air Center,"Roswell, NM",New Mexico,NM,33.3,-104.52944,3671,KROW,ROW,ROW,ROW
+10140,ABQ,Albuquerque International Sunport,"Albuquerque, NM",New Mexico,NM,35.038887,-106.60833,5355,KABQ,ABQ,ABQ,ABQ
+14570,RNO,Reno/Tahoe International,"Reno, NV",Nevada,NV,39.49917,-119.76806,4415,KRNO,RNO,RNO,RNO
+11525,EKO,Elko Regional,"Elko, NV",Nevada,NV,40.825,-115.79139,5140,KEKO,EKO,EKO,EKO
+12889,LAS,Harry Reid International,"Las Vegas, NV",Nevada,NV,36.08,-115.15222,2181,KLAS,LAS,LAS,LAS
+12197,HPN,Westchester County,"White Plains, NY",New York,NY,41.066944,-73.7075,439,KHPN,HPN,HPN,HPN
+10792,BUF,Buffalo Niagara International,"Buffalo, NY",New York,NY,42.940556,-78.73055,728,KBUF,BUF,BUF,BUF
+14025,PBG,Plattsburgh International,"Plattsburgh, NY",New York,NY,44.650833,-73.468056,234,KPBG,PBG,PBG,PBG
+14576,ROC,Frederick Douglass Grtr Rochester International,"Rochester, NY",New York,NY,43.119167,-77.67194,559,KROC,ROC,ROC,ROC
+13832,OGS,Ogdensburg International,"Ogdensburg, NY",New York,NY,44.68222,-75.46333,297,KOGS,OGS,OGS,OGS
+10577,BGM,Greater Binghamton/Edwin A. Link Field,"Binghamton, NY",New York,NY,42.208332,-75.97972,1636,KBGM,BGM,BGM,BGM
+11537,ELM,Elmira/Corning Regional,"Elmira/Corning, NY",New York,NY,42.15972,-76.89167,954,KELM,ELM,ELM,ELM
+12953,LGA,LaGuardia,"New York, NY",New York,NY,40.77722,-73.8725,21,KLGA,LGA,LGA,LGA
+10257,ALB,Albany International,"Albany, NY",New York,NY,42.74917,-73.80194,285,KALB,ALB,ALB,ALB
+15070,SWF,New York Stewart International,"Newburgh/Poughkeepsie, NY",New York,NY,41.504166,-74.10472,491,KSWF,SWF,SWF,SWF
+12478,JFK,John F. Kennedy International,"New York, NY",New York,NY,40.64,-73.77861,13,KJFK,JFK,JFK,JFK
+10361,ART,Watertown International,"Watertown, NY",New York,NY,43.991943,-76.01945,325,KART,ART,ART,ART
+12397,ITH,Ithaca Tompkins International,"Ithaca/Cortland, NY",New York,NY,42.49139,-76.45861,1099,KITH,ITH,ITH,ITH
+15096,SYR,Syracuse Hancock International,"Syracuse, NY",New York,NY,43.11111,-76.10639,421,KSYR,SYR,SYR,SYR
+12391,ISP,Long Island MacArthur,"Islip, NY",New York,NY,40.796112,-73.100555,99,KISP,ISP,ISP,ISP
+12265,IAG,Niagara Falls International,"Niagara Falls, NY",New York,NY,43.1075,-78.94583,589,KIAG,IAG,IAG,IAG
+11066,CMH,John Glenn Columbus International,"Columbus, OH",Ohio,OH,39.996944,-82.89222,815,KCMH,CMH,CMH,CMH
+11042,CLE,Cleveland-Hopkins International,"Cleveland, OH",Ohio,OH,41.409443,-81.85472,791,KCLE,CLE,CLE,CLE
+12917,LCK,Rickenbacker International,"Columbus, OH",Ohio,OH,39.81389,-82.92778,744,KLCK,LCK,LCK,LCK
+10874,CAK,Akron-Canton Regional,"Akron, OH",Ohio,OH,40.915,-81.44361,1228,KCAK,CAK,CAK,CAK
+15295,TOL,Eugene F Kranz Toledo Express,"Toledo, OH",Ohio,OH,41.586945,-83.80778,683,KTOL,TOL,TOL,TOL
+11267,DAY,James M Cox/Dayton International,"Dayton, OH",Ohio,OH,39.90222,-84.219444,1009,KDAY,DAY,DAY,DAY
+15074,SWO,Stillwater Regional,"Stillwater, OK",Oklahoma,OK,36.16139,-97.08583,1000,KSWO,SWO,SWO,SWO
+13851,OKC,Will Rogers World,"Oklahoma City, OK",Oklahoma,OK,35.393055,-97.60083,1295,KOKC,OKC,OKC,OKC
+12891,LAW,Lawton-Fort Sill Regional,"Lawton/Fort Sill, OK",Oklahoma,OK,34.56778,-98.416664,1110,KLAW,LAW,LAW,LAW
+15370,TUL,Tulsa International,"Tulsa, OK",Oklahoma,OK,36.198334,-95.888054,677,KTUL,TUL,TUL,TUL
+14489,RDM,Roberts Field,"Bend/Redmond, OR",Oregon,OR,44.254166,-121.15056,3080,KRDM,RDM,RDM,RDM
+13264,MFR,Rogue Valley International - Medford,"Medford, OR",Oregon,OR,42.375,-122.87334,1335,KMFR,MFR,MFR,MFR
+14057,PDX,Portland International,"Portland, OR",Oregon,OR,45.58861,-122.59695,31,KPDX,PDX,PDX,PDX
+11603,EUG,Mahlon Sweet Field,"Eugene, OR",Oregon,OR,44.124443,-123.211945,374,KEUG,EUG,EUG,EUG
+13964,OTH,Southwest Oregon Regional,"North Bend/Coos Bay, OR",Oregon,OR,43.416943,-124.24695,17,KOTH,OTH,OTH,OTH
+11577,ERI,Erie International/Tom Ridge Field,"Erie, PA",Pennsylvania,PA,42.083057,-80.17389,732,KERI,ERI,ERI,ERI
+14100,PHL,Philadelphia International,"Philadelphia, PA",Pennsylvania,PA,39.871944,-75.240555,36,KPHL,PHL,PHL,PHL
+10135,ABE,Lehigh Valley International,"Allentown/Bethlehem/Easton, PA",Pennsylvania,PA,40.6525,-75.44028,393,KABE,ABE,ABE,ABE
+10434,AVP,Wilkes Barre Scranton International,"Scranton/Wilkes-Barre, PA",Pennsylvania,PA,41.338333,-75.723335,962,KAVP,AVP,AVP,AVP
+12559,JST,John Murtha Johnstown-Cambria County,"Johnstown, PA",Pennsylvania,PA,40.315556,-78.834724,2284,KJST,JST,JST,JST
+12898,LBE,Arnold Palmer Regional,"Latrobe, PA",Pennsylvania,PA,40.273056,-79.41028,1199,KLBE,LBE,LBE,LBE
+13230,MDT,Harrisburg International,"Harrisburg, PA",Pennsylvania,PA,40.193054,-76.7625,310,KMDT,MDT,MDT,MDT
+14711,SCE,University Park,"State College, PA",Pennsylvania,PA,40.85,-77.8475,1239,KUNV,SCE,UNV,UNV
+14122,PIT,Pittsburgh International,"Pittsburgh, PA",Pennsylvania,PA,40.49139,-80.23278,1203,KPIT,PIT,PIT,PIT
+14254,PSE,Mercedita,"Ponce, PR",Puerto Rico,PR,18.008888,-66.564445,28,TJPS,PSE,PSE,TJPS
+10732,BQN,Rafael Hernandez,"Aguadilla, PR",Puerto Rico,PR,18.494722,-67.12945,237,TJBQ,BQN,BQN,TJBQ
+14843,SJU,Luis Munoz Marin International,"San Juan, PR",Puerto Rico,PR,18.439444,-66.00222,9,TJSJ,SJU,SJU,TJSJ
+14307,PVD,Rhode Island Tf Green International,"Providence, RI",Rhode Island,RI,41.72222,-71.42778,55,KPVD,PVD,PVD,PVD
+10994,CHS,Charleston AFB/International,"Charleston, SC",South Carolina,SC,32.898613,-80.04056,46,KCHS,CHS,CHS,CHS
+10868,CAE,Columbia Metropolitan,"Columbia, SC",South Carolina,SC,33.93889,-81.119446,236,KCAE,CAE,CAE,CAE
+11996,GSP,Greenville-Spartanburg International,"Greer, SC",South Carolina,SC,34.895557,-82.21889,964,KGSP,GSP,GSP,GSP
+12124,HHH,Hilton Head Airport,"Hilton Head, SC",South Carolina,SC,32.224445,-80.6975,19,KHXD,HHH,HXD,HXD
+13577,MYR,Myrtle Beach International,"Myrtle Beach, SC",South Carolina,SC,33.67972,-78.92834,25,KMYR,MYR,MYR,MYR
+11699,FLO,Florence Regional,"Florence, SC",South Carolina,SC,34.185276,-79.72389,146,KFLO,FLO,FLO,FLO
+10409,ATY,Watertown Regional,"Watertown, SD",South Dakota,SD,44.913887,-97.154724,1749,KATY,ATY,ATY,ATY
+10141,ABR,Aberdeen Regional,"Aberdeen, SD",South Dakota,SD,45.446667,-98.4225,1302,KABR,ABR,ABR,ABR
+14457,RAP,Rapid City Regional,"Rapid City, SD",South Dakota,SD,44.045277,-103.05722,3204,KRAP,RAP,RAP,RAP
+11775,FSD,Joe Foss Field,"Sioux Falls, SD",South Dakota,SD,43.581944,-96.74194,1429,KFSD,FSD,FSD,FSD
+14120,PIR,Pierre Regional,"Pierre, SD",South Dakota,SD,44.38278,-100.285835,1744,KPIR,PIR,PIR,PIR
+15323,TRI,Tri Cities,"Bristol/Johnson City/Kingsport, TN",Tennessee,TN,36.475277,-82.4075,1519,KTRI,TRI,TRI,TRI
+10693,BNA,Nashville International,"Nashville, TN",Tennessee,TN,36.124443,-86.678055,599,KBNA,BNA,BNA,BNA
+13244,MEM,Memphis International,"Memphis, TN",Tennessee,TN,35.0425,-89.97667,341,KMEM,MEM,MEM,MEM
+15412,TYS,McGhee Tyson,"Knoxville, TN",Tennessee,TN,35.81111,-83.99416,981,KTYS,TYS,TYS,TYS
+10980,CHA,Lovell Field,"Chattanooga, TN",Tennessee,TN,35.03528,-85.20361,683,KCHA,CHA,CHA,CHA
+12016,GUM,Guam International,"Guam, TT",U.S. Pacific Trust Territories and Possessions,TT,13.483889,144.79723,305,PGUM,GUM,GUM,PGUM
+14222,PPG,Pago Pago International,"Pago Pago, TT",U.S. Pacific Trust Territories and Possessions,TT,-14.33,-170.71028,32,NSTU,PPG,PPG,NSTU
+14955,SPN,Francisco C. Ada Saipan International,"Saipan, TT",U.S. Pacific Trust Territories and Possessions,TT,15.120277,145.73,215,PGSN,SPN,GSN,PGSN
+11140,CRP,Corpus Christi International,"Corpus Christi, TX",Texas,TX,27.772223,-97.5025,44,KCRP,CRP,CRP,CRP
+14842,SJT,San Angelo Regional/Mathis Field,"San Angelo, TX",Texas,TX,31.357779,-100.49639,1919,KSJT,SJT,SJT,SJT
+11982,GRK,Robert Gray AAF,"Killeen, TX",Texas,TX,31.067223,-97.82889,1015,KGRK,GRK,GRK,GRK
+10747,BRO,Brownsville South Padre Island International,"Brownsville, TX",Texas,TX,25.90611,-97.42611,22,KBRO,BRO,BRO,BRO
+14960,SPS,Sheppard AFB/Wichita Falls Municipal,"Wichita Falls, TX",Texas,TX,33.988888,-98.49194,1019,KSPS,SPS,SPS,SPS
+10728,BPT,Jack Brooks Regional,"Beaumont/Port Arthur, TX",Texas,TX,29.950834,-94.02055,15,KBPT,BPT,BPT,BPT
+11049,CLL,Easterwood Field,"College Station/Bryan, TX",Texas,TX,30.588055,-96.3625,320,KCLL,CLL,CLL,CLL
+10136,ABI,Abilene Regional,"Abilene, TX",Texas,TX,32.41139,-99.681946,1791,KABI,ABI,ABI,ABI
+13061,LRD,Laredo International,"Laredo, TX",Texas,TX,27.544167,-99.46167,508,KLRD,LRD,LRD,LRD
+12191,HOU,William P Hobby,"Houston, TX",Texas,TX,29.645834,-95.27722,46,KHOU,HOU,HOU,HOU
+12206,HRL,Valley International,"Harlingen/San Benito, TX",Texas,TX,26.227222,-97.65528,36,KHRL,HRL,HRL,HRL
+12896,LBB,Lubbock Preston Smith International,"Lubbock, TX",Texas,TX,33.663612,-101.82056,3282,KLBB,LBB,LBB,LBB
+11415,DRT,Del Rio International,"Del Rio, TX",Texas,TX,29.374166,-100.92722,1002,KDRT,DRT,DRT,DRT
+14683,SAT,San Antonio International,"San Antonio, TX",Texas,TX,29.53389,-98.46917,809,KSAT,SAT,SAT,SAT
+10423,AUS,Austin - Bergstrom International,"Austin, TX",Texas,TX,30.194445,-97.67,542,KAUS,AUS,AUS,AUS
+11905,GGG,East Texas Regional,"Longview, TX",Texas,TX,32.38389,-94.71139,365,KGGG,GGG,GGG,GGG
+13256,MFE,McAllen Miller International,"Mission/McAllen/Edinburg, TX",Texas,TX,26.175833,-98.23861,107,KMFE,MFE,MFE,MFE
+11259,DAL,Dallas Love Field,"Dallas, TX",Texas,TX,32.845833,-96.85083,487,KDAL,DAL,DAL,DAL
+11540,ELP,El Paso International,"El Paso, TX",Texas,TX,31.807222,-106.37639,3959,KELP,ELP,ELP,ELP
+10155,ACT,Waco Regional,"Waco, TX",Texas,TX,31.612223,-97.23028,516,KACT,ACT,ACT,ACT
+11298,DFW,Dallas/Fort Worth International,"Dallas/Fort Worth, TX",Texas,TX,32.89722,-97.03778,607,KDFW,DFW,DFW,DFW
+10279,AMA,Rick Husband Amarillo International,"Amarillo, TX",Texas,TX,35.219444,-101.70583,3607,KAMA,AMA,AMA,AMA
+15411,TYR,Tyler Pounds Regional,"Tyler, TX",Texas,TX,32.35361,-95.40305,544,KTYR,TYR,TYR,TYR
+13158,MAF,Midland International Air and Space Port,"Midland/Odessa, TX",Texas,TX,31.9425,-102.20194,2871,KMAF,MAF,MAF,MAF
+15569,VCT,Victoria Regional,"Victoria, TX",Texas,TX,28.854166,-96.91861,115,KVCT,VCT,VCT,VCT
+12266,IAH,George Bush Intercontinental/Houston,"Houston, TX",Texas,TX,29.984444,-95.34139,97,KIAH,IAH,IAH,IAH
+13829,OGD,Ogden-Hinckley,"Ogden, UT",Utah,UT,41.195,-112.01222,4473,KOGD,OGD,OGD,OGD
+15582,VEL,Vernal Regional,"Vernal, UT",Utah,UT,40.43611,-109.51139,5278,KVEL,VEL,VEL,VEL
+14869,SLC,Salt Lake City International,"Salt Lake City, UT",Utah,UT,40.788334,-111.977776,4227,KSLC,SLC,SLC,SLC
+14794,SGU,St George Regional,"St. George, UT",Utah,UT,37.03639,-113.51028,2941,KSGU,SGU,SGU,SGU
+10918,CDC,Cedar City Regional,"Cedar City, UT",Utah,UT,37.700832,-113.09889,5622,KCDC,CDC,CDC,CDC
+14314,PVU,Provo Municipal,"Provo, UT",Utah,UT,40.219166,-111.723335,4497,KPVU,PVU,PVU,PVU
+11092,CNY,Canyonlands Regional,"Moab, UT",Utah,UT,38.7575,-109.753334,4557,KCNY,CNY,CNY,CNY
+14524,RIC,Richmond International,"Richmond, VA",Virginia,VA,37.50528,-77.319725,167,KRIC,RIC,RIC,RIC
+14802,SHD,Shenandoah Valley Regional,"Staunton, VA",Virginia,VA,38.26389,-78.896385,1201,KSHD,SHD,SHD,SHD
+14574,ROA,Roanoke Blacksburg Regional,"Roanoke, VA",Virginia,VA,37.325554,-79.975555,1175,KROA,ROA,ROA,ROA
+11278,DCA,Ronald Reagan Washington National,"Washington, DC",Virginia,VA,38.851387,-77.03778,15,KDCA,DCA,DCA,DCA
+13931,ORF,Norfolk International,"Norfolk, VA",Virginia,VA,36.894722,-76.20111,26,KORF,ORF,ORF,ORF
+14098,PHF,Newport News/Williamsburg International,"Newport News/Williamsburg, VA",Virginia,VA,37.131943,-76.49306,42,KPHF,PHF,PHF,PHF
+10990,CHO,Charlottesville Albemarle,"Charlottesville, VA",Virginia,VA,38.13972,-78.452225,639,KCHO,CHO,CHO,CHO
+12264,IAD,Washington Dulles International,"Washington, DC",Virginia,VA,38.9475,-77.46,312,KIAD,IAD,IAD,IAD
+13139,LYH,Lynchburg Regional/Preston Glenn Field,"Lynchburg, VA",Virginia,VA,37.32528,-79.20111,938,KLYH,LYH,LYH,LYH
+15024,STT,Cyril E King,"Charlotte Amalie, VI",U.S. Virgin Islands,VI,18.337223,-64.973335,24,TIST,STT,STT,TIST
+15027,STX,Henry E. Rohlsen,"Christiansted, VI",U.S. Virgin Islands,VI,17.70139,-64.80194,74,TISX,STX,STX,TISX
+10785,BTV,Burlington International,"Burlington, VT",Vermont,VT,44.471943,-73.153336,335,KBTV,BTV,BTV,BTV
+11884,GEG,Spokane International,"Spokane, WA",Washington,WA,47.619167,-117.53528,2376,KGEG,GEG,GEG,GEG
+14303,PUW,Pullman Moscow Regional,"Pullman, WA",Washington,WA,46.741665,-117.111664,2556,KPUW,PUW,PUW,PUW
+10666,BLI,Bellingham International,"Bellingham, WA",Washington,WA,48.792778,-122.5375,170,KBLI,BLI,BLI,BLI
+14004,PAE,Snohomish County,"Everett, WA",Washington,WA,47.907223,-122.28222,606,KPAE,PAE,PAE,PAE
+11470,EAT,Pangborn Memorial,"Wenatchee, WA",Washington,WA,47.398888,-120.20695,1249,KEAT,EAT,EAT,EAT
+14747,SEA,Seattle/Tacoma International,"Seattle, WA",Washington,WA,47.45,-122.31167,433,KSEA,SEA,SEA,SEA
+14252,PSC,Tri Cities,"Pasco/Kennewick/Richland, WA",Washington,WA,46.26472,-119.11889,410,KPSC,PSC,PSC,PSC
+10275,ALW,Walla Walla Regional,"Walla Walla, WA",Washington,WA,46.0925,-118.284164,1194,KALW,ALW,ALW,ALW
+16101,YKM,Yakima Air Terminal/McAllister Field,"Yakima, WA",Washington,WA,46.568054,-120.54417,1099,KYKM,YKM,YKM,YKM
+13485,MSN,Dane County Regional-Truax Field,"Madison, WI",Wisconsin,WI,43.14,-89.3375,887,KMSN,MSN,MSN,MSN
+13076,LSE,La Crosse Regional,"La Crosse, WI",Wisconsin,WI,43.879166,-91.25667,655,KLSE,LSE,LSE,LSE
+11203,CWA,Central Wisconsin,"Mosinee, WI",Wisconsin,WI,44.7775,-89.666664,1277,KCWA,CWA,CWA,CWA
+13342,MKE,General Mitchell International,"Milwaukee, WI",Wisconsin,WI,42.946945,-87.89694,723,KMKE,MKE,MKE,MKE
+11471,EAU,Chippewa Valley Regional,"Eau Claire, WI",Wisconsin,WI,44.865833,-91.48417,913,KEAU,EAU,EAU,EAU
+10408,ATW,Appleton International,"Appleton, WI",Wisconsin,WI,44.258057,-88.519165,918,KATW,ATW,ATW,ATW
+11977,GRB,Green Bay Austin Straubel International,"Green Bay, WI",Wisconsin,WI,44.484722,-88.12972,695,KGRB,GRB,GRB,GRB
+14520,RHI,Rhinelander/Oneida County,"Rhinelander, WI",Wisconsin,WI,45.630833,-89.46667,1624,KRHI,RHI,RHI,RHI
+11146,CRW,West Virginia International Yeager,"Charleston/Dunbar, WV",West Virginia,WV,38.37611,-81.59278,981,KCRW,CRW,CRW,CRW
+13121,LWB,Greenbrier Valley,"Lewisburg, WV",West Virginia,WV,37.858334,-80.399445,2302,KLWB,LWB,LWB,LWB
+12223,HTS,Tri-State/Milton J. Ferguson Field,"Ashland, WV",West Virginia,WV,38.36861,-82.56028,828,KHTS,HTS,HTS,HTS
+11027,CKB,North Central West Virginia,"Clarksburg/Fairmont, WV",West Virginia,WV,39.29778,-80.2275,1217,KCKB,CKB,CKB,CKB
+14543,RKS,Southwest Wyoming Regional,"Rock Springs, WY",Wyoming,WY,41.594166,-109.06528,6764,KRKS,RKS,RKS,RKS
+11233,CYS,Cheyenne Regional/Jerry Olson Field,"Cheyenne, WY",Wyoming,WY,41.155556,-104.810555,6159,KCYS,CYS,CYS,CYS
+12888,LAR,Laramie Regional,"Laramie, WY",Wyoming,WY,41.311943,-105.675,7284,KLAR,LAR,LAR,LAR
+12441,JAC,Jackson Hole,"Jackson, WY",Wyoming,WY,43.607224,-110.73778,6451,KJAC,JAC,JAC,JAC
+11122,CPR,Casper/Natrona County International,"Casper, WY",Wyoming,WY,42.905834,-106.46361,5350,KCPR,CPR,CPR,CPR
+11097,COD,Yellowstone Regional,"Cody, WY",Wyoming,WY,44.52028,-109.02389,5102,KCOD,COD,COD,COD
+11865,GCC,Northeast Wyoming Regional,"Gillette, WY",Wyoming,WY,44.34889,-105.539444,4365,KGCC,GCC,GCC,GCC
+14534,RIW,Central Wyoming Regional,"Riverton/Lander, WY",Wyoming,WY,43.064167,-108.459724,5525,KRIW,RIW,RIW,RIW
+14812,SHR,Sheridan County,"Sheridan, WY",Wyoming,WY,44.769165,-106.98028,4021,KSHR,SHR,SHR,SHR
